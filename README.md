@@ -1,4 +1,6 @@
+			
 			Introduction
+		
 	Blackjack, also known as twenty-one, is widely played casino banking game in the world. Blackjack is a comparing card game between a player and dealer. This means that players are competing against the dealer and not against themselves. It is played with one or more decks of 52 cards. The purpose of the game is to beat the dealer, which can be accomplished in the following ways:
 •	Get 21 points (sum of the first two cards) on the player's first two cards (called a blackjack), without a dealer blackjack;
 •	Reach a final score higher than the dealer without exceeding 21 (sum of all cards drawn); 
