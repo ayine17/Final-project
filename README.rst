@@ -113,9 +113,67 @@ _______
     
     Normal wins and insurance bet is 2:1 or bet plus 1 time bet.
 
-Problem Scenario and User story
-++++++++++++++++++++++++++++++++
+
+Personas:
+
+Problem Scenario
++++++++++++++++++
+My friend James has lost money playing blackjack game and wants a way
+to learn to read cards.
+
+
+Detail:
+-------
+James, who has recently lost money-playing blackjack, came to me with
+an idea of learning to counting cards. The only way for him to learn
+to count blackjack is by playing the game. However, he does not want
+to spend money playing the game at casino or online since anytime
+plays for money, he loss focus and stop keeping track of the cards. In
+order for him to get use to keep track of cards while playing the
+game, he want me to design a blackjack game for him use to practice a
+home so he can learn to counting and keep of the cards. By playing
+this game everyday, he will become use to keep track of the cards.
+Therefore, he will be able to counting the cards in real game setting.
+He thinks by practicing cards counting with a computer blackjack game,
+he will be used to cards counting and cards counting will become
+second nature weather he is playing at casino or computer.
+
+
+User story
+++++++++++
 
 James Likes to play blackjack at casino and went me to a program for
 him to play and learn how to read or count cards and other advantage
 playing techniques.
+
+Acceptance Stories:
+-------------------
+Knowing basic strategy for blackjack increases a player's chance of
+winning. When a player acts on a guess, they can end up giving up a
+big advantage, this is where strategizing and cards counting comes
+into play.
+
+Story:
+``````
+scenario 1:
+```````````
+when the first two cards are dealt and
+dealer cards sum is 21, the dealer get blackjack. Then the dealer
+should win and all the players’ loss
+
+Scenario 2:
+```````````
+when cards are dealt and a player cards sum up 21, the
+gets win with Blackjack and get paid 1.5.
+
+Scenario 3:
+```````````
+when cards are dealt and neither the dealer nor players
+did not cards add up to 21, the players can choose to stay or hit.
+Hit take addition card to try to 21 or higher without bust. 
+
+Scenario 4:
+```````````
+when cards are dealt and the dealer first card is ace,
+the player can take “insurance” before the dealer draw the second
+cards by add half of his/her original bet. Insurance is paid 2 to 1.
